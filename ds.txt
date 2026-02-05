@@ -1,0 +1,14 @@
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@proxyrb.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#fr_rb
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@74.125.225.72:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#bam_fr
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@smn.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#smn_fr
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@fna2.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#fna2_fr
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@mobn.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#mobn_fr
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@gp.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#gp
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@fna.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#fna_fr
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@teb.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#teb_fr
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@rsp1.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#rsp1_fr
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@hk.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#hkproxy
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@fna4.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#fna4_fr
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@pish.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#pish
+vless://99744a5a-f4b4-4883-a049-9efb4ae62b90@mtn1.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxyfr.sayyedasal.ir.&fp=chrome&type=ws#mtn1
+vless://9e8005ba-1170-491b-afff-335e58ffd6cb@fr.sayyedasal.ir:55648?path=%2F&security=&encryption=none&host=proxyfr.sayyedasal.ir.&type=ws#proxyfr-z7zlw157
