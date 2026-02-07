@@ -1,3 +1,10 @@
+#profile-title: nl_smd
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/seyed84s/subscriptions
+#profile-web-page-url: https://github.com/seyed84s/subscriptions
+
+
 vless://2735bf3f-efc1-4d0a-b06b-9abfc5d29ac5@nl.sayyedasal.ir:31234?security=&encryption=none&headerType=&type=tcp#nl-easy-63layvev
 vless://98d665d2-5d8b-491c-bd5b-29040558323e@nl.sayyedasal.ir:47391?path=%2F&security=&encryption=none&host=proxynl.sayyedasal.ir.&type=ws#nl-ws-bbdxdx7m
 vless://deeb2852-82d0-48e6-8d31-ab0da2b9b87a@gp.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxynl.sayyedasal.ir.&fp=chrome&type=ws#gp-proxy-nl
