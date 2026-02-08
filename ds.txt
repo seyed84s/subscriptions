@@ -18,3 +18,4 @@ vless://deeb2852-82d0-48e6-8d31-ab0da2b9b87a@teb.sayyedasal.ir:443?path=%2F&secu
 vless://deeb2852-82d0-48e6-8d31-ab0da2b9b87a@mtn1.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxynl.sayyedasal.ir.&fp=chrome&type=ws#mtn-proxy-nl
 vless://deeb2852-82d0-48e6-8d31-ab0da2b9b87a@nc1.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxynl.sayyedasal.ir.&fp=chrome&type=ws#nc1-proxy-nl
 vless://deeb2852-82d0-48e6-8d31-ab0da2b9b87a@nc2.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxynl.sayyedasal.ir.&fp=chrome&type=ws#nc2-proxy-nl
+vless://deeb2852-82d0-48e6-8d31-ab0da2b9b87a@gg.sayyedasal.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=proxynl.sayyedasal.ir.&fp=chrome&type=ws#gg-proxy-nl
