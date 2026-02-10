@@ -1,35 +1,16 @@
-#profile-title: cf_smd
+#profile-title: ds_smd
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/seyed84s/subscriptions
 #profile-web-page-url: https://github.com/seyed84s/subscriptions
 
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@bam.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#bam
 
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@fna.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#fna
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@gg.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#gg
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@gp.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#gp
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@hk.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#hk
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@mobn.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#mobn
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@mtn1.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#mtn1
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@nc1.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#nc1
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@nc2.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#nc2
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@pish.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#pish
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@proxynl.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#proxynl
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@proxyrb.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#proxyrb
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@rsp1.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#rsp1
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@smn.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#smn
-
-vless://e402372e-314a-484c-b6f9-d2bed3275a31@teb.sayyedasal.ir:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=prnl.smvx.ir.&path=%2F#teb
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@teb.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#teb
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@smn.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#smn
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@rsp.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#rsp
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@pish.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#pish
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@hk.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#hk
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@gp.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#gp
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@gg.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#gg
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@fna.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#fna
+vless://e402372e-314a-484c-b6f9-d2bed3275a31@bam.smvx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=prnl.smvx.ir.&fp=chrome&type=ws#bam
