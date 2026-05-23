@@ -1,0 +1,8 @@
+{
+	"id": "70008803-ed47-4181-bf10-dc8f5362f42d",
+	"host": "prnl.smvx.ir",
+	"port": "443",
+	"path": "/",
+	"serverName": "815a2e4b-f639-56f5-b498-2c149402ee80.morteza.beauty",
+	"subnetsList": "https://raw.githubusercontent.com/MortezaBashsiz/CFScanner/main/config/cf.local.iplist"
+}
